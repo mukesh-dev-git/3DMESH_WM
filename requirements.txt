@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+trimesh
+torch
+torch_geometric
+Pillow
+matplotlib
+fast-simplification
+shapely
+jupyter
